@@ -1,0 +1,43 @@
+{
+  "name": "DogDrip #10",
+  "description": "A collection of 10,000 cute dogs living in the web3, paving multiple income.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRWuwGe7rkVdT5yAzHC5iTi2FZ9pvVg9xdj9d8pGcNzrp/10.png",
+  "dna": "bc00b4f95cc17a431d04477372d1383abe1a335d",
+  "edition": 10,
+  "date": 1661930773168,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background (1)"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body (6)"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Glasses (2)"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Shirt (6)"
+    },
+    {
+      "trait_type": "Bow",
+      "value": "Bow (8)"
+    },
+    {
+      "trait_type": "Gold Chain",
+      "value": "Gold Chain (3)"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth (17)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hat (2)"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
